@@ -10,7 +10,7 @@
 ### PortFolio
 <p>
   <a href="[https://www.notion.so/51b8eb6df40c436faf3a31379881452d](https://www.notion.so/d78ad1ac3ce54ba7b19f4c1e1ffeadec)" target="_blank">
-    <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black"/>
+    <img src="[https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black](https://www.notion.so/d78ad1ac3ce54ba7b19f4c1e1ffeadec)"/>
   </a>
 </p>
 
