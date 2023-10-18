@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black"/>
   </a>
 </p>
-https://www.notion.so/d78ad1ac3ce54ba7b19f4c1e1ffeadec
 
 # 🔥 Skills
 
