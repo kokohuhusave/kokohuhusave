@@ -37,7 +37,8 @@
 ### Back-End
 <p>
     <img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=4479A1"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=4479A1"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat&logo=fastapi&logoColor=4479A1"/>&nbsp;
     
 </p>
 
