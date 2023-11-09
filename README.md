@@ -66,5 +66,5 @@
 
 ### Beakjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawnsgh000)](https://solved.ac/rlawnsgh000/)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokohuhusave)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokohuhusave&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=cobalt"/>
