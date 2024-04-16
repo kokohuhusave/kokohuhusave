@@ -9,7 +9,7 @@
 
 ### PortFolio
 <p>
-  <a href="https://www.notion.so/d78ad1ac3ce54ba7b19f4c1e1ffeadec" target="_blank">
+  <a href="[https://www.notion.so/d78ad1ac3ce54ba7b19f4c1e1ffeadec](https://skinny-flock-45f.notion.site/d78ad1ac3ce54ba7b19f4c1e1ffeadec?pvs=4)" target="_blank">
     <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black"/>
   </a>
 </p>
