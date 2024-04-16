@@ -39,8 +39,7 @@
     <img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=4479A1"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat&logo=fastapi&logoColor=4479A1"/>&nbsp;
-    <img src="https://img.shields.io/badge/springboot-009688?style=for-the-badge&logo= #6DB33F&logoColor=white">
-      #6DB33F
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
 </p>
 
 ### DataBase
