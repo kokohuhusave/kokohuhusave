@@ -5,10 +5,11 @@
 <h2 align="center">😄 About Me</h2>
 <p align="center">
   <a href="mailto:zhfxms12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-zhfxms12@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <br/><br/>
   <a href="https://skinny-flock-45f.notion.site/d78ad1ac3ce54ba7b19f4c1e1ffeadec">
-    <img src="https://img.shields.io/badge/Portfolio-6DB33F?style=flat-square&logo=notion&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now!-6DB33F?style=for-the-badge&logo=notion&logoColor=black"/>
   </a>
 </p>
 
@@ -77,10 +78,16 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawnsgh000" alt="Baekjoon Profile" />
   </a>
 
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=kokohuhusave&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokohuhusave&layout=compact&theme=cobalt" alt="Top Langs" width="48%"/>
+<h3>📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kokohuhusave&show_icons=true&theme=gruvbox" 
+       alt="GitHub Stats" 
+       style="width:49%; height:200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokohuhusave&layout=compact&theme=cobalt" 
+       alt="Top Langs" 
+       style="width:49%; height:200px;"/>
 </div>
+
 
 ---
 
