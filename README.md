@@ -14,6 +14,13 @@
   </a>
 </p>
 
+### Project URL
+* ‘MEDICAR TEST’ AI 차량 손상 인식 프로그램 개발
+  * https://github.com/kokohuhusave/Medicar_Test
+* 자연어 처리를 이용한 ‘DMZ’ AI 신조어 챗봇 서비스 개발
+  * https://github.com/kokohuhusave/newword_chatbot_Project
+* ‘지켜 Dream’ 모바일 앱 서비스 개발
+  * https://github.com/kokohuhusave/safe_dream_Project
 # 🔥 Skills
 
 ### AI
